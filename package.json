@@ -1,0 +1,23 @@
+{
+  "name": "tea-list",
+  "version": "1.0.0",
+  "description": "tea-list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gerardug/tea-list.git"
+  },
+  "dependencies": {
+    "tea-oss-handle": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardug/tea-list/issues"
+  },
+  "homepage": "https://github.com/gerardug/tea-list#readme"
+}
