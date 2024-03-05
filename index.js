@@ -1,6 +1,6 @@
 class TeaList {
     constructor() {
-      this.teaItems = [];
+      this.teaItems = ['1'];
     }
   
     addTeaItem(teaName) {
